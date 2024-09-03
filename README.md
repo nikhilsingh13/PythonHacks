@@ -41,5 +41,5 @@ The scripts and notebooks are very useful when working on formal projects or com
 The command used in Chapter 9:
 ```bash
 cat DSS/random-text.txt | python DSS/egrep.py "[0-9]" | python DSS/line_count.py
-
+```
 **Expected Answer:** `$2$`
