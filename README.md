@@ -42,4 +42,4 @@ The command used in Chapter 9:
 ```bash
 cat DSS/random-text.txt | python DSS/egrep.py "[0-9]" | python DSS/line_count.py
 ```
-**Expected Answer:** `$2$`
+**Expected Answer:** `2`
