@@ -17,8 +17,8 @@ The scripts and notebooks are very useful when working on formal projects or com
 | 6       | Done                  |
 | 7       | Done                  |
 | 8       | Done                  |
-| 9       | **Currently Working** |
-| 10      | Pending               |
+| 9       | Done                  |
+| 10      | **Currently Reading** |
 | 11      | Pending               |
 | 12      | Pending               |
 | 13      | Pending               |
@@ -38,8 +38,14 @@ The scripts and notebooks are very useful when working on formal projects or com
 | 27      | Pending               |
 
 #### Chapter 9
-The command used in Chapter 9:
+Commands used in Chapter 9:
+
 ```bash
+# This command counts the number of lines containing digits
 cat DSS/random-text.txt | python DSS/egrep.py "[0-9]" | python DSS/line_count.py
+# expected answer: 2
+
+# This command finds the most common words. If no number is passed, default to 5 words.
+cat DSS/random-text.txt | python DSS/most_common_words.py
+cat DSS/random-text.txt | python DSS/most_common_words.py 10
 ```
-**Expected Answer:** `2`
