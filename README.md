@@ -18,8 +18,8 @@ The scripts and notebooks are very useful when working on formal projects or com
 | 7       | Done                  |
 | 8       | Done                  |
 | 9       | Done                  |
-| 10      | **Currently Reading** |
-| 11      | Pending               |
+| 10      | Done                  |
+| 11      | **Currently Reading** |
 | 12      | Pending               |
 | 13      | Pending               |
 | 14      | Pending               |
