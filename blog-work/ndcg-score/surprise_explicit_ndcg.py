@@ -35,6 +35,9 @@ algos = {
 results = {}
 users = list(test_gt.keys())
 
+# if you are copy-pasting the script for your work;
+# I'll advise you to also use tqdm to track the loop progress.
+
 for name, algo in algos.items():
     start_time = time.time()
     algo.fit(trainset)
