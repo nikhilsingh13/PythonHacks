@@ -7,35 +7,35 @@ The scripts and notebooks are very useful when working on formal projects or com
 ## About DSS
 ### Chapters Progress
 
-| Chapter | Status                |
-|---------|-----------------------|
-| 1       | Done                  |
-| 2       | Done                  |
-| 3       | Done                  |
-| 4       | Done                  |
-| 5       | Done                  |
-| 6       | Done                  |
-| 7       | Done                  |
-| 8       | Done                  |
-| 9       | Done                  |
-| 10      | Done                  |
-| 11      | **Currently Reading** |
-| 12      | Pending               |
-| 13      | Pending               |
-| 14      | Pending               |
-| 15      | Pending               |
-| 16      | Pending               |
-| 17      | Pending               |
-| 18      | Pending               |
-| 19      | Pending               |
-| 20      | Pending               |
-| 21      | Pending               |
-| 22      | Pending               |
-| 23      | Pending               |
-| 24      | Pending               |
-| 25      | Pending               |
-| 26      | Pending               |
-| 27      | Pending               |
+| Chapter | Status                | Notebook Link                                  |
+|---------|-----------------------|------------------------------------------------|
+| 1       | Done                  | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yourusername/PythonHacks/master?filepath=path/to/Notebook1.ipynb) |
+| 2       | Done                  | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yourusername/PythonHacks/master?filepath=path/to/Notebook2.ipynb) |
+| 3       | Done                  | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yourusername/PythonHacks/master?filepath=path/to/Notebook3.ipynb) |
+| 4       | Done                  | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yourusername/PythonHacks/master?filepath=path/to/Notebook4.ipynb) |
+| 5       | Done                  | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yourusername/PythonHacks/master?filepath=path/to/Notebook5.ipynb) |
+| 6       | Done                  | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yourusername/PythonHacks/master?filepath=path/to/Notebook6.ipynb) |
+| 7       | Done                  | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yourusername/PythonHacks/master?filepath=path/to/Notebook7.ipynb) |
+| 8       | Done                  | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yourusername/PythonHacks/master?filepath=path/to/Notebook8.ipynb) |
+| 9       | Done                  | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yourusername/PythonHacks/master?filepath=path/to/Notebook9.ipynb) |
+| 11      | Done                  | [![Binder](https://mybinder.org/badge_logo.svg)](https://github.com/nikhilsingh13/PythonHacks/blob/main/notebooks/DSS_10_working_data.ipynb) |
+| 10      | Done                  | [![Binder](https://mybinder.org/badge_logo.svg)](https://github.com/nikhilsingh13/PythonHacks/blob/main/notebooks/DSS_11_ml.ipynb) |
+| 12      | **Currently Reading** |                                                |
+| 13      | Pending               |                                                |
+| 14      | Pending               |                                                |
+| 15      | Pending               |                                                |
+| 16      | Pending               |                                                |
+| 17      | Pending               |                                                |
+| 18      | Pending               |                                                |
+| 19      | Pending               |                                                |
+| 20      | Pending               |                                                |
+| 21      | Pending               |                                                |
+| 22      | Pending               |                                                |
+| 23      | Pending               |                                                |
+| 24      | Pending               |                                                |
+| 25      | Pending               |                                                |
+| 26      | Pending               |                                                |
+| 27      | Pending               |                                                |
 
 #### Chapter 9
 Commands used in Chapter 9:
