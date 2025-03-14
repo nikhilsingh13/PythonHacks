@@ -20,8 +20,8 @@ The scripts and notebooks are very useful when working on formal projects or com
 | 9       | Done                  | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yourusername/PythonHacks/master?filepath=path/to/Notebook9.ipynb) |
 | 11      | Done                  | [![Binder](https://mybinder.org/badge_logo.svg)](https://github.com/nikhilsingh13/PythonHacks/blob/main/notebooks/DSS_10_working_data.ipynb) |
 | 10      | Done                  | [![Binder](https://mybinder.org/badge_logo.svg)](https://github.com/nikhilsingh13/PythonHacks/blob/main/notebooks/DSS_11_ml.ipynb) |
-| 12      | **Currently Reading** |                                                |
-| 13      | Pending               |                                                |
+| 12      | Done                  | [![Binder](https://mybinder.org/badge_logo.svg)](https://github.com/nikhilsingh13/PythonHacks/blob/main/notebooks/DSS_12_knn.ipynb) |
+| 13      | **Currently Reading** |                                                |
 | 14      | Pending               |                                                |
 | 15      | Pending               |                                                |
 | 16      | Pending               |                                                |
