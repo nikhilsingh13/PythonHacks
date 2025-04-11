@@ -29,3 +29,8 @@ def correlation(sample1: List, sample2: List):
         numerator += (sample1[i]-sample1mean)*(sample2[i]-sample2mean)
     
     return numerator/denominator
+
+def de_mean(xs: List[float]) -> List[float]:
+    """Translate xs by subtracting its mean (result has mean 0)"""
+    x_bar = mean(xs)
+    return [x - x_bar for x in xs]
