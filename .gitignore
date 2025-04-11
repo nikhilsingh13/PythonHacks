@@ -130,3 +130,5 @@ credentials.json
 .pyre/
 
 .DS_Store
+
+uv.lock
