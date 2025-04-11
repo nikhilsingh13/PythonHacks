@@ -22,7 +22,7 @@ The scripts and notebooks are very useful when working on formal projects or com
 | 10      | Done                  | [![Binder](https://mybinder.org/badge_logo.svg)](https://github.com/nikhilsingh13/PythonHacks/blob/main/notebooks/DSS_11_ml.ipynb) |
 | 12      | Done                  | [![Binder](https://mybinder.org/badge_logo.svg)](https://github.com/nikhilsingh13/PythonHacks/blob/main/notebooks/DSS_12_knn.ipynb) |
 | 13      | Done | [![Binder](https://mybinder.org/badge_logo.svg)](https://github.com/nikhilsingh13/PythonHacks/blob/main/notebooks/DSS_13_naive_bayes.ipynb) |
-| 14      | Done               | [![Binder](https://mybinder.org/badge_logo.svg)](https://github.com/nikhilsingh13/PythonHacks/blob/main/notebooks/DSS_14_simple_linear_regress.ipynb) |
+| 14      | Done               | [![Binder](https://mybinder.org/badge_logo.svg)](https://github.com/nikhilsingh13/PythonHacks/blob/main/notebooks/DSS_14_simple_linear_regres.ipynb)|
 | 15      | **Currently Reading** |                                                |
 | 16      | Pending               |                                                |
 | 17      | Pending               |                                                |
