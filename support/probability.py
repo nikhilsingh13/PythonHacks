@@ -18,3 +18,6 @@ def inverse_normal_cdf(p, mu=0, sigma=1, tolerance=1e-5):
             hi_z, hi_p = mid_z, mid_p
 
     return mid_z
+
+def normal_cdf(x: float, mu: float = 0, sigma: float = 1) -> float:
+    return (1 + math.erf((x - mu) / math.sqrt(2) / sigma)) / 2
