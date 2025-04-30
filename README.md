@@ -21,10 +21,10 @@ The scripts and notebooks are very useful when working on formal projects or com
 | 11      | Done                  | [![Binder](https://mybinder.org/badge_logo.svg)](https://github.com/nikhilsingh13/PythonHacks/blob/main/notebooks/DSS_10_working_data.ipynb) |
 | 10      | Done                  | [![Binder](https://mybinder.org/badge_logo.svg)](https://github.com/nikhilsingh13/PythonHacks/blob/main/notebooks/DSS_11_ml.ipynb) |
 | 12      | Done                  | [![Binder](https://mybinder.org/badge_logo.svg)](https://github.com/nikhilsingh13/PythonHacks/blob/main/notebooks/DSS_12_knn.ipynb) |
-| 13      | Done | [![Binder](https://mybinder.org/badge_logo.svg)](https://github.com/nikhilsingh13/PythonHacks/blob/main/notebooks/DSS_13_naive_bayes.ipynb) |
-| 14      | Done               | [![Binder](https://mybinder.org/badge_logo.svg)](https://github.com/nikhilsingh13/PythonHacks/blob/main/notebooks/DSS_14_simple_linear_regres.ipynb)|
-| 15      | **Currently Reading** |                                                |
-| 16      | Pending               |                                                |
+| 13      | Done                  | [![Binder](https://mybinder.org/badge_logo.svg)](https://github.com/nikhilsingh13/PythonHacks/blob/main/notebooks/DSS_13_naive_bayes.ipynb) |
+| 14      | Done                  | [![Binder](https://mybinder.org/badge_logo.svg)](https://github.com/nikhilsingh13/PythonHacks/blob/main/notebooks/DSS_14_simple_linear_regres.ipynb)|
+| 15      | Done                  | [![Binder](https://mybinder.org/badge_logo.svg)](https://github.com/nikhilsingh13/PythonHacks/blob/main/notebooks/DSS_15_multiple_regression.ipynb)|
+| 16      | **Currently Reading** |                                                |
 | 17      | Pending               |                                                |
 | 18      | Pending               |                                                |
 | 19      | Pending               |                                                |
